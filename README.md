@@ -21,14 +21,14 @@ FizzBuzz is a small JavaScript application that implements the FizzBuzz algorith
 2. Run the script using the following command:
     - `node fizzBuzz.js [n]`
 
-    Replace `[n]` with the number up to which you want to execute FizzBuzz.
+Replace `[n]` with the number up to which you want to execute FizzBuzz.
 
 ## Example
 
 To execute FizzBuzz up to 20:
-    - `node fizzbuzz.js 20 `
+    - `node fizzbuzz.js 20`
     
-    This will display the FizzBuzz results from 1 to 20 in your terminal.
+This will display the FizzBuzz results from 1 to 20 in your terminal.
 
 ## Contribution
 
