@@ -27,7 +27,7 @@ FizzBuzz is a small JavaScript application that implements the FizzBuzz algorith
 
 To execute FizzBuzz up to 20:
     - `node fizzbuzz.js 20 `
-
+    
     This will display the FizzBuzz results from 1 to 20 in your terminal.
 
 ## Contribution
